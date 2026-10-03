@@ -1,0 +1,2 @@
+model,pretrained,strategy,best_val_accuracy,best_epoch,epoch_reach_90,training_time_seconds,train_images,val_images,num_classes
+MobileNetV3-Small,ImageNet,Feature Extraction,96.66666666666667,9,1,67.91726930000004,420,90,5

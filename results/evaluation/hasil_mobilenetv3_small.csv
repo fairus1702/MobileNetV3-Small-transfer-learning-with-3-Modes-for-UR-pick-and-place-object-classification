@@ -1,0 +1,2 @@
+model,test_accuracy,precision_macro,recall_macro,f1_score_macro,latency_mean_ms,latency_min_ms,latency_max_ms,latency_std_ms,device,test_images
+MobileNetV3-Small,96.66666666666667,96.94736842105263,96.66666666666669,96.65892872084824,8.588383333234459,7.089299999279319,28.901000001496868,2.2603315959301917,cpu,90
