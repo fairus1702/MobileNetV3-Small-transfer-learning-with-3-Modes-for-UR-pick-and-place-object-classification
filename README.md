@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MobileNetV3-Small Transfer Learning
 
 Transfer Learning MobileNetV3-Small dengan 3 mode eksperimen: **Feature Extraction, Fine-Tuning Partial, dan Training from Scratch** untuk klasifikasi objek pada area pick and place robot UR3.
@@ -149,3 +150,7 @@ Hasil ini menunjukkan bahwa dataset yang relatif kecil belum cukup untuk melatih
 Eksperimen menunjukkan bahwa strategi transfer learning sangat berpengaruh terhadap performa MobileNetV3-Small.
 
 **Fine-Tuning Partial** menghasilkan performa terbaik dengan test accuracy **97.78%**, sedangkan Feature Extraction mencapai **96.67%**. Training from Scratch hanya mencapai **20%**, sehingga penggunaan pretrained ImageNet terbukti lebih efektif untuk dataset project yang relatif kecil.
+=======
+# UR-Robot-Transfer-Learning-Classificationn
+Transfer learning comparison of ResNet18, ResNet50, and MobileNetV3-Small for object classification in a UR3 pick-and-place workspace.
+>>>>>>> bd5c3554429ef614efd8e0f8ca57063ce3c4e75c
